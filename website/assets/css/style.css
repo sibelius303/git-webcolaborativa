@@ -2,6 +2,33 @@ body{
     background: #BDBDBD;
 }
 
-.img-service2{
-    border-radius: 50%;
+/*Mis reglas CSS*/
+.navbar-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(128, 128, 128);
+}
+.tagline-bg{
+    background-image: url(../img/bg.jpg); 
+    height: 70vh; 
+    background-position: bottom;
+}
+.tagline-gap1{
+    height: 70px;
+}
+.tagline-gap2{
+    height: 15px;
+}
+.tagline-title{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12vh;
+    text-align: center;
+    color: rgb(55, 55, 55);
+}
+.tagline-subtitle{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7vh;
+    text-align: center;
+    color: rgb(55, 55, 55);
 }
